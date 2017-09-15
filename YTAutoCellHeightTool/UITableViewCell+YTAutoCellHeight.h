@@ -16,7 +16,7 @@ typedef NSDictionary *(^YTCacheHeight)();
 
 @property (nonatomic, assign) CGFloat YTBottomOffsetToCell;
 
-
 + (CGFloat)YTHeightForTableView:(UITableView *)tableView config:(YTCellBlock)config;
 
++(CGFloat)YTHeightForTableView:(UITableView *)tableView config:(YTCellBlock)config cache:(YTCacheHeight)cache;
 @end

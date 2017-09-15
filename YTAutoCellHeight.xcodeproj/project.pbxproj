@@ -449,6 +449,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 3HRRK3TVA6;
 				INFOPLIST_FILE = YTAutoCellHeight/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = yangtong.YTAutoCellHeight;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -461,6 +462,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 3HRRK3TVA6;
 				INFOPLIST_FILE = YTAutoCellHeight/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = yangtong.YTAutoCellHeight;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -536,6 +538,7 @@
 				713D54021F6B6D190044F917 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		713D54031F6B6D190044F917 /* Build configuration list for PBXNativeTarget "YTAutoCellHeightTests" */ = {
 			isa = XCConfigurationList;
@@ -544,6 +547,7 @@
 				713D54051F6B6D190044F917 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		713D54061F6B6D190044F917 /* Build configuration list for PBXNativeTarget "YTAutoCellHeightUITests" */ = {
 			isa = XCConfigurationList;
@@ -552,6 +556,7 @@
 				713D54081F6B6D190044F917 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
